@@ -1,8 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Uploading image.png…]()
-
-
 ## 👋 Hello! I'm tho
 
 I'm a passionate developer with experience in various programming languages and technologies. I love creating innovative solutions, exploring new technologies, and contributing to open-source projects.
