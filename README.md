@@ -17,7 +17,7 @@ I'm a passionate developer with experience in various programming languages and 
 ### 🚀 Projects
 
 #### [MurderMystery Minigame](https://github.com/m7wq/MurderMystery)
-A Minecraft minigame plugin that enhances player experience with exciting knockback mechanics. Developed using the Spigot API for version 1.8.8.
+A Minecraft minigame plugin where players are assigned roles as Innocents, Detectives, and Murderers. Developed using the Spigot API for version 1.8.8, this plugin offers a thrilling experience with dynamic gameplay.
 
 #### [qShop Integration](https://github.com/m7wq/qShop)
 Integration project with the qShop library, showcasing a custom ShopAdapter and Main class implementation.
