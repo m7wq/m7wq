@@ -13,8 +13,8 @@ I'm a passionate developer with experience in various programming languages and 
 
 ### 🚀 Projects
 
-#### [MurderMystery Minigame](https://github.com/m7wq/MurderMystery)
-A Minecraft minigame plugin where players are assigned roles as Innocents, Detectives, and Murderers. Developed using the Spigot API for version 1.8.8, this plugin offers a thrilling experience with dynamic gameplay.
+#### [Guilds Plugin](https://github.com/m7wq/qGuilds) [Not Completed]
+The Guilds plugin is a powerful and flexible plugin designed for Minecraft servers, enabling players to create, manage, and engage in guild-related activities. This plugin offers a range of features that enhance the community experience, making it easier for players to collaborate, compete, and thrive within their own guilds 
 
 #### [qShop Integration](https://github.com/m7wq/qShop)
 Integration project with the qShop library, showcasing a custom ShopAdapter and Main class implementation.
