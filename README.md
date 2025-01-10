@@ -25,8 +25,6 @@ Integration project with the qShop library, showcasing a custom ShopAdapter and 
 - Learning to use MySQL and saving data in it
 - Understanding the fundamental concepts and their implementation in Java
 
-- [Personal Website](https://yourwebsite.com)
-
 ### 💬 Let's Chat!
 
 I enjoy discussing new ideas and collaborating on interesting projects. Feel free to reach out!
