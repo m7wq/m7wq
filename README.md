@@ -35,5 +35,3 @@ I enjoy discussing new ideas and collaborating on interesting projects. Feel fre
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7wq&layout=compact)](https://github.com/m7wq)
 
-![tho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7wq&show_icons=true&theme=radical)
-
