@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-## 👋 Hello! I'm tho
+## 👋 Hello! I'm Mahmoud
 
 I'm a passionate developer with experience in various programming languages and technologies. I love creating innovative solutions, exploring new technologies, and contributing to open-source projects.
 
