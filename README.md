@@ -6,7 +6,7 @@ I'm a passionate developer with experience in various programming languages and 
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Java, Python
+- **Languages:** Java, Python, C++
 - **Frameworks & Libraries:** Spigot API, JDA, Java swing
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Jenkins
