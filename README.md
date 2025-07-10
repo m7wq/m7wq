@@ -6,7 +6,7 @@ I'm a passionate developer with experience in various programming languages and 
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Java, Python, C++
+- **Languages:** Java, Python, C++, Lua
 - **Frameworks & Libraries:** Spigot API, JDA, Java swing
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Jenkins
@@ -22,7 +22,8 @@ Integration project with the qShop library, showcasing a custom ShopAdapter and 
 ### 🌱 Currently Learning
 
 - Advanced Spigot API development
-- Learning to use MySQL and saving data in it
+- Learning to use MongoDB and saving data with it
+- Learing about caching data with Redis
 - Understanding the fundamental concepts and their implementation in Java
 
 ### 💬 Let's Chat!
