@@ -17,7 +17,7 @@ I'm a passionate developer with experience in various programming languages and 
 The Guilds plugin is a powerful and flexible plugin designed for Minecraft servers, enabling players to create, manage, and engage in guild-related activities. This plugin offers a range of features that enhance the community experience, making it easier for players to collaborate, compete, and thrive within their own guilds 
 
 #### [qShop Integration](https://github.com/m7wq/qShop)
-Integration project with the qShop library, showcasing a custom ShopAdapter and Main class implementation.
+Minecraft Shop Library that allows you to handle menu slots as sales and provides amazing futures as making selectable slots/sales
 
 ### 🌱 Currently Learning
 
