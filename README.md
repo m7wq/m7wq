@@ -21,8 +21,8 @@ Minecraft Shop Library that allows you to handle menu slots as sales and provide
 
 ### 🌱 Currently Learning
 
-- Advanced Spigot API development
-- Learning to use MongoDB and saving data with it
+- Learning more about Spigot NMS and java reflection
+- Learning how to manipulate Protocol by `ProtocolLib`
 - Learing about caching data with Redis
 - Understanding the fundamental concepts and their implementation in Java
 
