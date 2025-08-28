@@ -9,7 +9,7 @@ I'm a passionate developer with experience in various programming languages and 
 - **Languages:** Java, Python, C++, Lua
 - **Frameworks & Libraries:** Spigot API, JDA, Java swing, **Spring [Boot, Jpa Data]**
 - **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Jenkins
+- **Tools & Platforms:** Git, Postman, Jenkins
 
 ### 🚀 Projects
 
